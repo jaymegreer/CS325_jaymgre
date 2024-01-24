@@ -1,3 +1,5 @@
-input = input("What do you want to print? ")    
-print(input)
-
+input1 = input("What do you want to print? ")    
+print(input1)
+print("Nice job!")
+input2 = input("Want to print something else? ")
+print(input2)
