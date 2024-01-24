@@ -1,3 +1,3 @@
-input = input("What do you want to print? ")    
-print(input)
+input1 = input("What do you want to print? ")    
+print(input1)
 
